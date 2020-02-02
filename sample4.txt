@@ -3,4 +3,7 @@ asd
 as
 das
 das
+
 from cmd for merge conflict
+from web for merge conflict
+
